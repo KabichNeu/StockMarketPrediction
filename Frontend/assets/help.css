@@ -490,9 +490,7 @@ p {
 		font-weight: 500;
 	}
 }
-/* End Keyframes */
 
-/* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
 	.cta {
 		font-size: 2.5rem;
@@ -595,9 +593,7 @@ p {
 	}
 	/* End contact  */
 }
-/* End Media Query For Tablet */
 
-/* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
 	/* header */
 	#header .hamburger {
@@ -626,4 +622,4 @@ p {
 		margin: 1.5%;
 	}
 }
-/* End  Media Query For Desktop */
+
