@@ -1,5 +1,5 @@
 # StockMarketPrediction
-Stock market prediction model
+Stock market prediction
 Using ARIMA model
 
 Bisheshwor Neupane
